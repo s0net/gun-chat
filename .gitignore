@@ -2,6 +2,6 @@
 /public/build/
 .firebaserc
 firebase.json
-.firebase
+.firebase/
 
 .DS_Store
