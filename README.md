@@ -1,12 +1,14 @@
-# GUN Chat Dapp Demo
+# GUN Chat 
 
-A decentralized chat app built with [GUN](https://gun.eco/). 
+A decentralized chat app built with [GUN](https://gun.eco/) and svelte
 
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
+- check out [GUN](https://gun.eco/) and [svelte](https://svelte.dev/) 
+- thanks to [fireship.io's gun-chat tutorial](https://github.com/fireship-io/gun-chat)
+
+## Setup
 
 ```
-git clone <this-repo>
-npm install
-npm run dev
+$ git clone <this-repo>
+$ npm install
+$ npm run dev
 ```
